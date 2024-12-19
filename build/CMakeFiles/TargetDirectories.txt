@@ -1,0 +1,3 @@
+/mnt/e/workspace/opengl-demo1/build/CMakeFiles/My3DDemo.dir
+/mnt/e/workspace/opengl-demo1/build/CMakeFiles/edit_cache.dir
+/mnt/e/workspace/opengl-demo1/build/CMakeFiles/rebuild_cache.dir
